@@ -13,6 +13,11 @@ header{
     
 }
 
+.col-md-6{
+    background-color: lightpink;
+}
+
+
 header p{
     font-style: italic;
 }
